@@ -7,7 +7,10 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>Embarking on a journey with OpenAI's GPT-3 technology opens doors to endless possibilities. 
+        While the path may seem daunting at first, the assistance provided by OpenAI empowers us to navigate through challenges with confidence. 
+        Just as every journey begins with a single step, every innovation starts with an idea. With OpenAI by our side, we have the tools to turn those ideas into reality, 
+        shaping a future where innovation knows no bounds.</p>
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
