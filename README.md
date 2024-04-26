@@ -1,4 +1,4 @@
-# 🚀 FullStackJSRepo
+# 🚀 FullJSRepo
 
 Welcome to FullStackJSRepo! This repository houses my MERN (MongoDB, Express.js, React.js, Node.js) project showcasing my skills as a full stack developer.
 
