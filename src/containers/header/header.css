@@ -19,13 +19,7 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
-     /* Apply linear gradient background */
-     background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
-     /* Apply background clip to text */
-     -webkit-background-clip: text;
-     background-clip: text;
-     /* Set text color to transparent */
-     color: transparent;}
+}
 
 .gpt3__header-content p {
     font-family: var(--font-family);
