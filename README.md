@@ -1,9 +1,11 @@
 # 🚀 FullJSRepo
 
-Welcome to FullStackJSRepo! This repository houses my MERN (MongoDB, Express.js, React.js, Node.js) project showcasing my skills as a full stack developer.
+Welcome to the Modern UI/UX GPT-3 project! This repository showcases a modern and intuitive user interface leveraging my skills as a full-stack developer. Here, you'll find a stunning modern UI/UX design.
+
+Stay tuned to witness the backend side powered by OpenAI's GPT-3 technology!
 
 ## 👩‍💻 About Me
-I'm [Kaoutar Amazzar], a passionate full stack developer with expertise in building modern web applications. I love turning ideas into reality through code and creating seamless user experiences. Connect with me on [LinkedIn](https://www.linkedin.com/in/amazzar-kaoutar/)!
+I'm [Kaoutar Amazzar], a passionate full-stack developer with expertise in building modern web applications. I love turning ideas into reality through code and creating seamless user experiences. Connect with me on [LinkedIn](https://www.linkedin.com/in/amazzar-kaoutar/)!
 
 ## 🌟 Project Overview
 This project is a portfolio showcasing my capabilities in building fully responsive and modern UI/UX websites using React.js. It features:
